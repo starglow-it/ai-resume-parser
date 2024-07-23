@@ -1,5 +1,8 @@
 # AI Resume Parser
 
+
+![ai-resume-parser-ezgif com-optimize](https://github.com/user-attachments/assets/6ee95026-53b3-4bcb-8156-05a828693665)
+
 The **ai-resume-parser** project is a software solution that enables the parsing of resumes using AI.
 
 ## Installation
