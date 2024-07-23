@@ -1,0 +1,7 @@
+.env
+/.venv
+/src/logs
+/node_mmodules
+/__pycache__
+/src/uploaded-resumes
+/src/output
